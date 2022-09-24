@@ -52,6 +52,7 @@ Run the 'train.py';
 
 ```python
 python3 train.py
+# Happy Training!
 ```
 
  ## Inference
