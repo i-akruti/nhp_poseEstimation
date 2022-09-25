@@ -48,7 +48,7 @@ python3 prepare_train_labels.py
 *  num_heatmaps -- should correspond to number of keypoints to detect + 1 for background
 *  num_pafs -- should correspond to number of connections between the keypoints, i.e., keypoints pairs for grouping
 
-Run the 'train.py';
+Run the 'train.py'
 
 ```python
 python3 train.py
